@@ -47,7 +47,7 @@ O objetivo principal desta etapa é desenvolver o firmware e a simulação de ha
 ## 🚀 Como Rodar no Velxio
 
 1. Acesse a plataforma do **Velxio** e abra o projeto do circuito simulado:
-   * 🔗 [**Link do Projeto no Velxio**](SEU_LINK_DO_VELXIO_AQUI) *(Substitua este texto pelo link retornado ao salvar seu projeto no Velxio)*
+   * 🔗 [**Link do Projeto no Velxio**](https://velxio.dev/hnrqmv/edital-final-redes)
 
 2. Verifique se o código do arquivo `.ino` está carregado no ambiente.
 
